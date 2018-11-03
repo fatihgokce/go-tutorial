@@ -1,5 +1,6 @@
 package simplepack
 
-func Topla(x, y int) {
+//return sum
+func Add(x, y int) int {
 	return x + y
 }
